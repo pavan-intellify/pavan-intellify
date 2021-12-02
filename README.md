@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavan-intellify, I'm also @pavs23
 - 👀 I’m interested in Data Engineering, Software Engineering and writing
-- 📫 How to reach me: https://www.linkedin.com/in/pavanraju023/
+- 📫 Twitter: @pavanraju023
 
 <!---
 pavan-intellify/pavan-intellify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
